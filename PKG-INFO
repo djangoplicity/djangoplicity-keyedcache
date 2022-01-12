@@ -1,0 +1,20 @@
+Metadata-Version: 1.0
+Name: djangoplicity-keyedcache
+Version: 1.5.3
+Summary: keyedcache
+Home-page: https://github.com/djangoplicity/djangoplicity-keyedcache
+Author: Bruce Kroeze
+Author-email: brucek@ecomsmith.com
+License: New BSD License
+Description: Djangoplicity Keyedcache provides utilities and class mixins for simplified development of cache-aware objects.  Used in Satchmo.
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.5
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Framework :: Django
