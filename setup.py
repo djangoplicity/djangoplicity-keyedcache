@@ -18,6 +18,7 @@ setup(
     author = 'Bruce Kroeze',
     author_email = 'brucek@ecomsmith.com',
     url = 'https://github.com/djangoplicity/djangoplicity-keyedcache',
+    download_url = 'https://github.com/djangoplicity/djangoplicity-keyedcache/archive/refs/tags/1.5.3.tar.gz',
     license = 'New BSD License',
     platforms = ['any'],
     classifiers = ['Development Status :: 4 - Beta',

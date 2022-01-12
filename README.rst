@@ -136,6 +136,7 @@ Release notes
 ver. 1.5.0
 
 * The cache configuration is made compatible with current versions of Django.
+
 It is currently configured by the varible CACHES. The variable CACHE_PREFIX
 is currently obsoleted 
 CACHES.
